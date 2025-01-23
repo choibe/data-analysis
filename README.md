@@ -12,4 +12,4 @@ This project demonstrates the use of Python, SQL, and Tableau in data anlaysis. 
 
 ## Result
 
-![dashboard](../Project1/Energy Dashboard.png)
+![dashboard](Project1/Energy Dashboard.png)
