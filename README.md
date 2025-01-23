@@ -11,4 +11,4 @@ This project demonstrates the use of Python, SQL, and Tableau in data anlaysis. 
 -ISO3 country code data came from [World Bank](https://wits.worldbank.org/wits/wits/witshelp/content/codes/country_codes.htm).
 
 ## Result
-[dashboard](/Project1/Energy Dashboard.png)
+[dashboard](../Project1/Energy Dashboard.png)
