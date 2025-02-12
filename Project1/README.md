@@ -11,10 +11,10 @@ This project demonstrates the use of Python, SQL, and Tableau in data analysis. 
 - ISO3 country code data came from [World Bank](https://wits.worldbank.org/wits/wits/witshelp/content/codes/country_codes.htm).
 
 ## Result
-- This [Jupyter Notebook](Project1/Process_CSV_files_and_send_to_MySQL.ipynb) shows how the 6 csv files were cleaned in Python and loaded to MySQL database.
-- This [SQL script](Project1/mysql_queries.sql) shows that the UN data were queried together based on the matching year and region and that the ISO3 country codes were joined with the corresponding country names.
+- This [Jupyter Notebook](Process_CSV_files_and_send_to_MySQL.ipynb) shows how the 6 csv files were cleaned in Python and loaded to MySQL database.
+- This [SQL script](mysql_queries.sql) shows that the UN data were queried together based on the matching year and region and that the ISO3 country codes were joined with the corresponding country names.
 - Iceland stood out as the highest per capita energy consumption region while having relatively low emissions in 2021. In the same year, it had the most renewable energy share at over 80%. The 2023 data showed that 69.77% of the energy came from geothermal/solar/wind while 19.56% accounted for hydropower.
 
-![EnergyDashboard](Project1/EnergyDashboard.png)
+![EnergyDashboard](EnergyDashboard.png)
 
 The dashboard can be viewed on [Tableau Public](https://public.tableau.com/app/profile/boeun.choi7767/vizzes).
